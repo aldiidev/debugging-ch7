@@ -31,7 +31,7 @@ app.get('/', (req, res) => {
     console.log(name)
     return res.json({
         status: true,
-        message: 'hii develop gg',
+        message: 'hii develop gg bet',
         err: null,
         data: null
     })
